@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "リレイアウター",
+  "base_artist": "稲葉曇",
+  "createdAt": "2025-12-22T22:53:54.381005Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "リレイアウター",
+      "artist": "稲葉曇",
+      "has_synced": false,
+      "path": "select/01_リレイアウター_稲葉曇.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "リレイアウター",
+      "artist": "稲葉曇",
+      "has_synced": false,
+      "path": "select/02_リレイアウター_稲葉曇.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "リレイアウター (Instrumental)",
+      "artist": "稲葉曇",
+      "has_synced": false,
+      "path": "select/03_リレイアウター_(Instrumental)_稲葉曇.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "リレイアウター",
+      "artist": "稲葉曇",
+      "has_synced": true,
+      "path": "select/04_リレイアウター_稲葉曇.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "リレイアウター",
+      "artist": "稲葉曇",
+      "has_synced": false,
+      "path": "select/pl_01_リレイアウター_稲葉曇.txt"
+    }
+  ]
+}
